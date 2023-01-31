@@ -4,4 +4,6 @@ Currently advanced sequencing methods have upgraded molecular biology research i
 
 We developed user-friendly app for uploading genomic (in form single nucleotide polymorphisms (SNPs)) and metabolomic data, their visualization and subsequently prediction analysis using different methods such as linear, non-linear and deep learning which is implemented in Matlab2022b. 
 
-see more 
+see more [CaGeApp_BriefDescription.pdf](https://github.com/JanaSchwarzerova/CaGeApp/files/10551322/CaGeApp_BriefDescription.pdf)
+
+
