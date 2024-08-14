@@ -1,5 +1,6 @@
 # CaGeOMICs App
 
+![Alt text](CaGeOMICs_scheme.jpg)
 
 
 ## Introduction
