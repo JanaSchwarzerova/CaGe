@@ -1,9 +1,7 @@
 # CaGeOMICs App
 
 **CaGeOMICs App**  
-**Department of Biomedical Engineering, FEEC, BUT**  
-**Molecular Systems Biology, University of Vienna**  
-**10.8.2024**
+
 
 ## Introduction
 
