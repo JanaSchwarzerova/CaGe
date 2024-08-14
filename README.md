@@ -17,7 +17,7 @@ To install the CaGeOMICs App, follow these instructions based on your Matlab set
   You can run the app directly using the executable file provided. Navigate to the folder `CageApp1/for_testing/` and execute `CaGeOMICs.exe`.
 
 - **If you do not have Matlab or a valid Matlab license:**  
-  You can install the app using the standalone installer. Download and run `MyAppInstaller_web.exe` from the folder `CageApp_1/for_redistribution/` to install the application on your computer. After installation, download the folder with the input example data (available in path CageApp1/for_testing/input_example) to the folder where you have the `.exe` application installed.
+  You can install the app using the standalone installer. Download and run `MyAppInstaller_web.exe` from the folder `CageApp_1/for_redistribution/` to install the application on your computer. After installation, download the folder with the input example data (available in path `CageApp_1/for_testing/input_example`) to the folder where you have the `.exe` application installed.
 
 ## Input
 
