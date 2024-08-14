@@ -9,8 +9,6 @@ Advancements in sequencing technologies have propelled molecular biology researc
 
 The CaGeOMICs app, implemented using Matlab2023b App Designer, provides a user-friendly tool for uploading genomic and metabolomic data, visualizing it, and performing prediction analysis using various methods, including linear, non-linear, and deep learning techniques.
 
-This work has been supported by grant FEKT-K-21-6878, realized within the project Quality Internal Grants of BUT (KInG BUT), Reg. No. CZ.02.2.69 / 0.0 / 0.0 / 19_073 / 0016948, which is financed from the OP RDE.
-
 ## Installation
 
 To install the CaGeOMICs App, follow these instructions based on your Matlab setup:
@@ -102,3 +100,9 @@ At the end, the user can either switch to another method in the "Prediction Meth
 2. Gemmer, M.R., et al. "Can metabolic prediction be an alternative to genomic prediction in barley?." PLoS One, 15(6), p.e0234052 (2020).
 3. Villar‐Hernández, B.D.J., et al. "A Bayesian optimization R package for multitrait parental selection." The Plant Genome, p.e20433 (2024).
 4. Bojer, C.S., and Meldgaard, J.P. "Kaggle forecasting competitions: An overlooked learning opportunity." International Journal of Forecasting, 37(2), pp.587-603 (2021).
+
+
+
+
+This work has been supported by grant FEKT-K-21-6878, realized within the project Quality Internal Grants of BUT (KInG BUT), Reg. No. CZ.02.2.69 / 0.0 / 0.0 / 19_073 / 0016948, which is financed from the OP RDE.
+
