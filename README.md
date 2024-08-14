@@ -2,7 +2,7 @@
 
 ![Alt text](CaGeOMICs_scheme.jpg)
 
-Illustrated manual is available here: 
+Illustrated manual is available here: (CaGeOMICsApp_manual.pdf)
 
 ## Introduction
 
