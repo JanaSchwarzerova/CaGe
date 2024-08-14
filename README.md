@@ -2,12 +2,14 @@
 
 ![Alt text](CaGeOMICs_scheme.jpg)
 
+Illustrated manual is available here: 
 
 ## Introduction
 
 Advancements in sequencing technologies have propelled molecular biology research into the post-genomic era. Research now focuses on understanding functional relationships between individual genes and their impact on the final phenotype. 
 
 The CaGeOMICs app, implemented using Matlab2023b App Designer, provides a user-friendly tool for uploading genomic and metabolomic data, visualizing it, and performing prediction analysis using various methods, including linear, non-linear, and deep learning techniques.
+
 
 ## Installation
 
