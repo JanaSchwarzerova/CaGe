@@ -105,6 +105,6 @@ At the end, the user can either switch to another method in the "Prediction Meth
 
 
 
-
+## The predecessor of this app, which was titled the CaGe app, was funded:
 This work has been supported by grant FEKT-K-21-6878, realized within the project Quality Internal Grants of BUT (KInG BUT), Reg. No. CZ.02.2.69 / 0.0 / 0.0 / 19_073 / 0016948, which is financed from the OP RDE.
 
