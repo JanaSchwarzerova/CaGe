@@ -1,4 +1,4 @@
-# CaGeOMICs App
+# PANOMICs App
 
 ![Alt text](CaGeOMICs_scheme.jpg)
 
@@ -8,18 +8,18 @@ Illustrated manual is available here: [The manual PDF](CaGeOMICsApp_manual.pdf)
 
 Advancements in sequencing technologies have propelled molecular biology research into the post-genomic era. Research now focuses on understanding functional relationships between individual genes and their impact on the final phenotype. 
 
-The CaGeOMICs app, implemented using Matlab2023b App Designer, provides a user-friendly tool for uploading genomic and metabolomic data, visualizing it, and performing prediction analysis using various methods, including linear, non-linear, and deep learning techniques.
+The PANOMICs app, implemented using Matlab2023b App Designer, provides a user-friendly tool for uploading genomic and metabolomic data, visualizing it, and performing prediction analysis using various methods, including linear, non-linear, and deep learning techniques.
 
 
 ## Installation
 
-To install the CaGeOMICs App, follow these instructions based on your Matlab setup:
+To install the PANOMICs App, follow these instructions based on your Matlab setup:
 
 - **If you have Matlab installed on your PC:**  
-  You can run the app directly using the executable file provided. Navigate to the folder `CageApp1/for_testing/` and execute `CaGeOMICs.exe`.
+  You can run the app directly using the executable file provided. Navigate to the folder `PANOMICSApp/for_testing/` and execute `PANOMICs.exe`.
 
 - **If you do not have Matlab or a valid Matlab license:**  
-  You can install the app using the standalone installer. Download and run `MyAppInstaller_web.exe` from the folder `CageApp_1/for_redistribution/` to install the application on your computer. After installation, download the folder with the input example data (available in path `CageApp_1/for_testing/input_example`) to the folder where you have the `.exe` application installed.
+  You can install the app using the standalone installer. Download and run `MyAppInstaller_web.exe` from the folder `PANOMICSApp/for_redistribution/` to install the application on your computer. After installation, download the folder with the input example data (available in path `PANOMICSApp/for_testing/input_example`) to the folder where you have the `.exe` application installed.
 
 ## Input
 
