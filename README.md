@@ -1,6 +1,6 @@
 # PANOMICs App
 
-![Alt text](CaGeOMICs_scheme.jpg)
+![Alt text](PANOMICs_scheme.jpg)
 
 Illustrated manual is available here: [The manual PDF](CaGeOMICsApp_manual.pdf)
 
