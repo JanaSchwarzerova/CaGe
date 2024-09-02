@@ -2,7 +2,7 @@
 
 ![Alt text](PANOMICs_scheme.jpg)
 
-Illustrated manual is available here: [The manual PDF](CaGeOMICsApp_manual.pdf)
+Illustrated manual is available here: [The manual PDF](PANOMICsApp_manual.pdf)
 
 ## Introduction
 
